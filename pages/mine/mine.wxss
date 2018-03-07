@@ -1,0 +1,16 @@
+/* pages/mine/mine.wxss */
+.lifeMine {
+  text-align: center;
+  font-size: 90rpx;
+}
+.lifeFeng {
+  margin-top: 40rpx;
+}
+.lifeImage {
+  width: 90%;
+  margin: auto;
+}
+.lifeImage image {
+  width:100%;
+  height: 400rpx;  
+}

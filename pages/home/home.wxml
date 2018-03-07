@@ -1,0 +1,5 @@
+<!--pages/home/home.wxml-->
+<view class="titleMine">个人风采</view>
+<view class="mineOne">
+   <image src="../images/1.jpg"></image> 
+</view>

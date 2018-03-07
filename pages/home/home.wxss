@@ -1,0 +1,13 @@
+/* pages/home/home.wxss */
+.titleMine {
+  text-align: center;
+  font-size: 90rpx;
+}
+.mineOne{
+  width: 90%;
+  margin: auto;
+}
+.mineOne image {
+  width:100%;
+   height: 400rpx;  
+}
